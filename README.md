@@ -1,2 +1,2 @@
 # Dashboard-in-power-bi
-Created Netflix Dashboard
+Created Amazon Dashboard in Power BI
